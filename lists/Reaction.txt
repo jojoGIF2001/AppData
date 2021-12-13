@@ -1,4 +1,4 @@
-Neuerungs Liste für Reaction
+Änderungs   liste für App Reaction
 
 
 Aktuellste Version:
@@ -8,6 +8,21 @@ Aktuellste Version:
 
 
 
-[Hinzugefügt] Teilen des Scores
+[Hinzugefügt] Score kann geteilt werden
 [Hinzugefügt] Farben Bild hinzugefügt
 [Hinzugefügt] Shop hinzugefügt
+[Hinzugefügt] Coins
+[Hinzugefügt] Multiplikator (x2, x5, x10)
+[Hinzugefügt] Push Erinnerungen für Multiplikator, Icon
+[Hinzugefügt] Genauere Spiele Anleitung
+[Hinzugefügt] Änderungsliste
+[Hinzugefügt] Sound alle 3 Punkte
+[Hinzugefügt] App icon
+[Hinzugefügt] Singelplayer Home Button
+[Hinzugefügt] Button zum Online Shop
+[Hinzugefügt] Cloud Benachrichtigungen
+
+[Behoben] Diverse App Abstürze
+[Behoben] Bug fixes 
+[Behoben] Icon größe
+
