@@ -1,0 +1,13 @@
+Neuerungs Liste für Reaction
+
+
+Aktuellste Version:
+
+
+2.4.3
+
+
+
+[Hinzugefügt] Teilen des Scores
+[Hinzugefügt] Farben Bild hinzugefügt
+[Hinzugefügt] Shop hinzugefügt
