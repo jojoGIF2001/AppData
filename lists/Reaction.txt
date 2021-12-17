@@ -1,4 +1,5 @@
-Änderungs   liste für App Reaction
+[Johannes_Dietrich_2021]
+Änderungsliste
 
 
 Aktuellste Version:
@@ -8,15 +9,17 @@ Aktuellste Version:
 
 
 
+[Hinzugefügt] Multiplayer
+[Hinzugefügt] Einstellungen
 [Hinzugefügt] Score kann geteilt werden
 [Hinzugefügt] Farben Bild hinzugefügt
 [Hinzugefügt] Shop hinzugefügt
 [Hinzugefügt] Coins
 [Hinzugefügt] Multiplikator (x2, x5, x10)
-[Hinzugefügt] Push Erinnerungen für Multiplikator, Icon
+[Hinzugefügt] Push Erinnerungen
 [Hinzugefügt] Genauere Spiele Anleitung
 [Hinzugefügt] Änderungsliste
-[Hinzugefügt] Sound alle 3 Punkte
+[Hinzugefügt] Punkte sound
 [Hinzugefügt] App icon
 [Hinzugefügt] Singelplayer Home Button
 [Hinzugefügt] Button zum Online Shop
@@ -25,4 +28,8 @@ Aktuellste Version:
 [Behoben] Diverse App Abstürze
 [Behoben] Bug fixes 
 [Behoben] Icon größe
+[Behoben] Multiplayer Abstürze
 
+
+
+[Johannes_Dietrich_2021]
