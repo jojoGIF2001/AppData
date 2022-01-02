@@ -1,35 +1,6 @@
-[Johannes_Dietrich_2021]
-Änderungsliste
+Reaction 
 
 
-Aktuellste Version:
+Aktuellst Version
 
-
-2.4.3
-
-
-
-[Hinzugefügt] Multiplayer
-[Hinzugefügt] Einstellungen
-[Hinzugefügt] Score kann geteilt werden
-[Hinzugefügt] Farben Bild hinzugefügt
-[Hinzugefügt] Shop hinzugefügt
-[Hinzugefügt] Coins
-[Hinzugefügt] Multiplikator (x2, x5, x10)
-[Hinzugefügt] Push Erinnerungen
-[Hinzugefügt] Genauere Spiele Anleitung
-[Hinzugefügt] Änderungsliste
-[Hinzugefügt] Punkte sound
-[Hinzugefügt] App icon
-[Hinzugefügt] Singelplayer Home Button
-[Hinzugefügt] Button zum Online Shop
-[Hinzugefügt] Cloud Benachrichtigungen
-
-[Behoben] Diverse App Abstürze
-[Behoben] Bug fixes 
-[Behoben] Icon größe
-[Behoben] Multiplayer Abstürze
-
-
-
-[Johannes_Dietrich_2021]
+1
