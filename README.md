@@ -1,3 +1,6 @@
+# AppData
+In this respository you can find all Installation files for our software.
+
 ## Versions
 Android
 - apk/Bottle.apk                    - v.0.0.1
@@ -43,7 +46,12 @@ Click on "Download" the downloud should start.
 
 ### Auto update
 
-- 
+- Reaction
+This App has the Auto Update function you get a notificaton if there is a new update.
+1. Start the App and you will see an alert dialog press "Update" to update the app.
+2. Press "cancel" to cancel the alert dialog
+3. If you want to update the app later just go to help and press "Update now!"
+4. after the download is finished the app is restarting
 
 ## There is a problem?
 
