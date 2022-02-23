@@ -7,16 +7,16 @@ Android
 Windows
 - exe/ZahlenRaten.zip               - v.2.1.4
 
-## IPA Level (Android)
+## API Level (Android)
 
-- Android Lollipop    (5.0)
+- Android Lollipop    (5.0) and higher
 
 
 ## API Level (Windown)
 
-- Windowns version 10.0
+- Windowns XP	      and higher
 
-## Download
+## Download (Windows and Android)
 
 Visit our offical Launcher website: https://flo3103.github.io/Downloader1/
 Click on "Download" the downloud should start.
@@ -38,6 +38,12 @@ Click on "Download" the downloud should start.
 - in this folder ther you can find the ZahlenGame.exe
 - doubble click on the ZahlenGame file
 - the Game should start
+
+## How to Install updates?
+
+### Auto update
+
+- 
 
 ## There is a problem?
 
