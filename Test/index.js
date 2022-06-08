@@ -1,5 +1,3 @@
-alert("Test");
-
-function getToastMessage() {
-    return "Servus";
+function showAndroidToast(toast) {
+    Android.showToast(toast);
 }
