@@ -1,5 +1,4 @@
-var toast = "Servus was Geht??";
-
 function showAndroidToast(toast) {
+    alert("1");
     Android.showToast(toast);
 }
