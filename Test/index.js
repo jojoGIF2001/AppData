@@ -1,4 +1,4 @@
 function showAndroidToast(toast) {
-    alert("1");
+    alert("1"); 
     Android.showToast(toast);
 }
